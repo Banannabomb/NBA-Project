@@ -1,3 +1,5 @@
+# svm_model.py
+
 import numpy as np
 
 
@@ -29,6 +31,3 @@ class LinearSVM:
     def predict(self, X):
         approx = np.dot(X, self.w) + self.b
         return np.sign(approx)
-
-    def decision_function(self, X):
-        return np.dot(X, self.w) + self.b

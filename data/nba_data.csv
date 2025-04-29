@@ -1,0 +1,26 @@
+Year,Team,Record,Standing (West/East),Offensive Rating,Defensive Rating,Net Rating (ORTG - DRTG),Assists Per Game (APG),Pace,True Shooting % (TS%),Effective FG % (eFG%),Turnover Ratio (TOV%),Offensive Rebound %,Opponent eFG%
+2000,Los Angeles Lakers,67-15,1st in Western Conference,107.3,98.2,9.1,23.5,93.3,55.00%,53.00%,13.00%,31.00%,45.00%
+2001,Los Angeles Lakers,56-26,2nd in Western Conference,108.4,104.8,3.6,23,91.7,53.00%,49.00%,14.40%,28.00%,46.00%
+2002,Los Angeles Lakers,58-32,3rd in Western Conference,109.4,101.7,7.7,23.5,92.1,53%,49%,14.00%,28.00%,46.00%
+2003,San Antonio Spurs,60-22,1st in Western Conference,105.6,99.7,6,21.8,90,52.00%,48.20%,14.60%,31.00%,45.10%
+2004,Detroit Pistons ,54-28,3rd in Eastern Conference,102,95.4,6.6,20.4,87.9,48.80%,44.60%,14.10%,31.60%,43.30%
+2005,San Antonio Spurs,59-23,2nd in Western Conference,107.5,98.8,8.7,20.9,88.9,52.60%,49.90%,14.50%,30.20%,45.00%
+2006,Miami Heat,52-30,2nd in Eastern Conference,108.7,104.5,4.2,20.6,91.6,55.00%,50.30%,14.80%,30.30%,48.90%
+2007,San Antonio Spurs,58-24,3rd in Western Conference,109.2,99.2,9.2,21.8,89.8,54.10%,50.80%,13.40%,24.70%,47.80%
+2008,Boston Celtics,66-16,1st in Eastern Conference,110.2,98.9,11.2,22.4,90.9,54.20%,51.00%,13.20%,22.50%,48.70%
+2009,Los Angeles Lakers,65-17,1st in Western Conference,112.8,104.7,8.1,23.2,94.3,55.00%,50.90%,13.20%,26.10%,49.00%
+2010,Los Angeles Lakers,57-25,1st in Western Conference,108.8,103.7,5,21.1,92.8,54.10%,50.60%,13.30%,26.20%,48.30%
+2011,Dallas Mavericks ,57-25,3rd in Western Conference,109.7,105,4.6,23.7,91.3,54.50%,50.90%,13.40%,22.10%,48.40%
+2012,Miami Heat,46-20,2nd in Eastern Conference,106.6,100.2,6.5,21.3,91.3,54.10%,50.20%,13.70%,27.20%,51.70%
+2013,Miami Heat,66-16,1st in Eastern Conference,112.3,103.7,8.6,23,90.7,58.60%,55.20%,13.70%,20.60%,48.10%
+2014,San Antonio Spurs,62-20,1st in Western Conference,108.2,100.1,8.1,25.2,95,56.10%,52.10%,14.10%,23.10%,51.90%
+2015,Golden State Warriors,67-15,1st in Western Conference,111.6,101.4,10.2,27.4,98.3,57.10%,54.00%,14.00%,23.10%,47.00%
+2016,Cleveland Cavaliers,57-25,1st in Eastern Conference,110.9,104.5,6.4,22.7,93.3,56.00%,52.70%,13.00%,23.70%,49.90%
+2017,Golden State Warriors,67-15,1st in Western Conference,115.6,104,11.6,30.4,99.8,59.70%,56.30%,14.10%,21.70%,49.90%
+2018,Golden State Warriors,58-24,2nd in Western Conference,113.6,107.7,6,29.3,99.6,59.30%,56.30%,14.30%,20.70%,51.60%
+2019,Toronto Raptors,58-24,2nd in Eastern Conference,113.1,107.1,6,25.4,100.2,56.10%,54.00%,13.20%,22.50%,50.50%
+2020,Los Angeles Lakers,52-19,1st in Western Conference,112,106.3,5.7,25.4,100.9,57.50%,54.00%,13.70%,23.10%,51.40%
+2021,Milwaukee Bucks,46-26,3rd in Eastern Conference,117.2,110.7,6.5,25.5,102.2,59.20%,56.30%,13.30%,20.50%,53.00%
+2022,Golden State Warriors,53-29,3rd in Western Conference,112.5,106.9,5.6,27.1,98.4,57.30%,55.30%,15.00%,23.10%,50.90%
+2023,Denver Nuggets,53-29,1st in Western Conference,116.8,113.5,3.3,28.9,98.2,60.00%,57.20%,13.50%,27.50%,54.00%
+2024,Boston Celtics,64-18,1st in Eastern Conference,118,110.5,7.5,26.5,99,58.70%,55.90%,12.80%,24.00%,51.20%
