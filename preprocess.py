@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def load_and_prepare_training_data():
-    df = pd.read_csv("data/Team Summary and Per Game.csv")
+    df = pd.read_csv("data/Improved Team Summary and Per Game.csv")
 
     # Selected features and renamed mapping
     features = [
@@ -19,7 +19,7 @@ def load_and_prepare_training_data():
     df[features] = df[features].apply(pd.to_numeric, errors='coerce')
 
     # Load champion list and merge
-    champions_df = pd.read_csv("champions.csv")
+    champions_df = pd.read_csv("data/champions.csv")
     champions_df["Champion"] = 1
     df = df.merge(champions_df, how="left", on=["season", "team"])
     df["Champion"] = df["Champion"].fillna(0).astype(int)

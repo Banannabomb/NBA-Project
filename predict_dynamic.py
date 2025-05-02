@@ -1,9 +1,11 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 from svm_model import LinearSVM
 
 # === Config ===
-input_csv = "data/2020_season.csv"
+input_csv = "data/2025_season.csv"
 model_path = "svm_model.pkl"
 
 # Load model
@@ -49,12 +51,13 @@ df_sorted.to_csv("predictions.csv", index=False)
 print("\n[INFO] Predictions saved to 'predictions.csv'")
 
 # Optional: Visualize (uncomment to use)
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# sns.histplot(df['Margin'], kde=True)
-# plt.axvline(threshold, color='r', linestyle='--', label='75th percentile threshold')
-# plt.title("Margin Distribution with Dynamic Threshold")
-# plt.xlabel("Margin")
-# plt.ylabel("Team Count")
-# plt.legend()
-# plt.show()
+"""
+sns.histplot(df['Margin'], kde=True)
+plt.axvline(threshold, color='r', linestyle='--',
+            label='75th percentile threshold')
+plt.title("Margin Distribution with Dynamic Threshold")
+plt.xlabel("Margin")
+plt.ylabel("Team Count")
+plt.legend()
+plt.show()
+"""
