@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def load_and_prepare_training_data():
-    df = pd.read_csv("data/Improved Team Summary and Per Game.csv")
+    df = pd.read_csv("data/Team Summary and Per Game.csv")
 
     # Selected features and renamed mapping
     features = [

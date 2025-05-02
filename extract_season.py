@@ -36,4 +36,4 @@ def extract_seasons(input_csv, years, team=None, output_csv=None):
 # Example usage
 if __name__ == "__main__":
     extract_seasons("data/Team Summary and Per Game.csv",
-                    list(range(2007, 2008)), output_csv="data/2007_season.csv")
+                    list(range(2017, 2018)), team="Golden State Warriors", output_csv="teams/17Warriors.csv")
