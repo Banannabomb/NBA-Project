@@ -23,6 +23,6 @@ model_info = {
     'weights': svm.w,
     'bias': svm.b
 }
-pd.to_pickle(model_info, 'models/svm_model.pkl')
+pd.to_pickle(model_info, 'models/svm_model_2010s.pkl')
 df.to_csv("processed.csv")
 print("Training complete. Model saved.")

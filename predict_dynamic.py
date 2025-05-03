@@ -3,8 +3,8 @@ import numpy as np
 from svm_model import LinearSVM
 
 # === Config ===
-input_csv = "teams/17Warriors.csv"
-model_path = "models/svm_model_90s.pkl"
+input_csv = "data/2025_season.csv"
+model_path = "models/svm_model.pkl"
 
 # Load model
 model_info = pd.read_pickle(model_path)
@@ -45,5 +45,5 @@ print("\nTop Predicted Teams:")
 print(df_sorted[df_sorted['Prediction'] == 1][['team', 'season', 'Margin']])
 
 # Save output
-df_sorted.to_csv("predictions/warriorsVbulls90s.csv", index=False)
+df_sorted.to_csv("predictions/warriorsVbulls.csv", index=False)
 print("\n[INFO] Predictions saved")

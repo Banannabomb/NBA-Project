@@ -1,0 +1,50 @@
+season,predicted_champion,top_3,actual_champion,correct_top_1,in_top_3,margin_gap
+1976,Denver Nuggets,"['Denver Nuggets', 'Golden State Warriors', 'San Antonio Spurs']",Boston Celtics,False,False,11.255196576963044
+1977,Denver Nuggets,"['Denver Nuggets', 'Portland Trail Blazers', 'Philadelphia 76ers']",Portland Trail Blazers,False,True,1.2245202635239139
+1978,Portland Trail Blazers,"['Portland Trail Blazers', 'Philadelphia 76ers', 'San Antonio Spurs']",Washington Bullets,False,False,13.836243951705796
+1979,Washington Bullets,"['Washington Bullets', 'San Antonio Spurs', 'Phoenix Suns']",Seattle SuperSonics,False,False,4.412445815023148
+1980,Los Angeles Lakers,"['Los Angeles Lakers', 'Boston Celtics', 'Philadelphia 76ers']",Los Angeles Lakers,True,True,0.0
+1981,Philadelphia 76ers,"['Philadelphia 76ers', 'Milwaukee Bucks', 'Boston Celtics']",Boston Celtics,False,True,3.357623910914299
+1982,Boston Celtics,"['Boston Celtics', 'Philadelphia 76ers', 'Los Angeles Lakers']",Los Angeles Lakers,False,True,2.90467003138167
+1983,Philadelphia 76ers,"['Philadelphia 76ers', 'Los Angeles Lakers', 'Boston Celtics']",Philadelphia 76ers,True,True,0.0
+1984,Boston Celtics,"['Boston Celtics', 'Los Angeles Lakers', 'Milwaukee Bucks']",Boston Celtics,True,True,0.0
+1985,Los Angeles Lakers,"['Los Angeles Lakers', 'Boston Celtics', 'Milwaukee Bucks']",Los Angeles Lakers,True,True,0.0
+1986,Boston Celtics,"['Boston Celtics', 'Los Angeles Lakers', 'Milwaukee Bucks']",Boston Celtics,True,True,0.0
+1987,Los Angeles Lakers,"['Los Angeles Lakers', 'Boston Celtics', 'Atlanta Hawks']",Los Angeles Lakers,True,True,0.0
+1988,Boston Celtics,"['Boston Celtics', 'Los Angeles Lakers', 'Portland Trail Blazers']",Los Angeles Lakers,False,True,0.19147720432397364
+1989,Detroit Pistons,"['Detroit Pistons', 'Cleveland Cavaliers', 'Los Angeles Lakers']",Detroit Pistons,True,True,0.0
+1990,Los Angeles Lakers,"['Los Angeles Lakers', 'Utah Jazz', 'Detroit Pistons']",Detroit Pistons,False,True,4.422151906386489
+1991,Portland Trail Blazers,"['Portland Trail Blazers', 'Chicago Bulls', 'Boston Celtics']",Chicago Bulls,False,True,0.1617538591540324
+1992,Chicago Bulls,"['Chicago Bulls', 'Portland Trail Blazers', 'Utah Jazz']",Chicago Bulls,True,True,0.0
+1993,Phoenix Suns,"['Phoenix Suns', 'New York Knicks', 'Cleveland Cavaliers']",Chicago Bulls,False,False,3.601901541533948
+1994,Seattle SuperSonics,"['Seattle SuperSonics', 'New York Knicks', 'Houston Rockets']",Houston Rockets,False,True,6.106900833888062
+1995,Utah Jazz,"['Utah Jazz', 'Orlando Magic', 'Seattle SuperSonics']",Houston Rockets,False,False,13.061166383726686
+1996,Chicago Bulls,"['Chicago Bulls', 'Seattle SuperSonics', 'San Antonio Spurs']",Chicago Bulls,True,True,0.0
+1997,Chicago Bulls,"['Chicago Bulls', 'Utah Jazz', 'Seattle SuperSonics']",Chicago Bulls,True,True,0.0
+1998,Los Angeles Lakers,"['Los Angeles Lakers', 'Utah Jazz', 'Seattle SuperSonics']",Chicago Bulls,False,False,3.149959706607092
+1999,San Antonio Spurs,"['San Antonio Spurs', 'Utah Jazz', 'Portland Trail Blazers']",San Antonio Spurs,True,True,0.0
+2000,Los Angeles Lakers,"['Los Angeles Lakers', 'Portland Trail Blazers', 'Phoenix Suns']",Los Angeles Lakers,True,True,0.0
+2001,San Antonio Spurs,"['San Antonio Spurs', 'Utah Jazz', 'Sacramento Kings']",Los Angeles Lakers,False,False,5.935166101754248
+2002,Sacramento Kings,"['Sacramento Kings', 'Los Angeles Lakers', 'San Antonio Spurs']",Los Angeles Lakers,False,True,1.207295158056695
+2003,Sacramento Kings,"['Sacramento Kings', 'Dallas Mavericks', 'San Antonio Spurs']",San Antonio Spurs,False,True,2.419985000771476
+2004,Minnesota Timberwolves,"['Minnesota Timberwolves', 'San Antonio Spurs', 'Indiana Pacers']",Detroit Pistons,False,False,3.7697172391935965
+2005,Phoenix Suns,"['Phoenix Suns', 'Miami Heat', 'San Antonio Spurs']",San Antonio Spurs,False,True,2.8555534419853075
+2006,San Antonio Spurs,"['San Antonio Spurs', 'Detroit Pistons', 'Phoenix Suns']",Miami Heat,False,False,8.382155829045928
+2007,Phoenix Suns,"['Phoenix Suns', 'Dallas Mavericks', 'San Antonio Spurs']",San Antonio Spurs,False,True,2.5921190545212767
+2008,Boston Celtics,"['Boston Celtics', 'Los Angeles Lakers', 'Phoenix Suns']",Boston Celtics,True,True,0.0
+2009,Cleveland Cavaliers,"['Cleveland Cavaliers', 'Boston Celtics', 'Los Angeles Lakers']",Los Angeles Lakers,False,True,2.353759708617872
+2010,Cleveland Cavaliers,"['Cleveland Cavaliers', 'Orlando Magic', 'Phoenix Suns']",Los Angeles Lakers,False,False,6.904322054143336
+2011,Chicago Bulls,"['Chicago Bulls', 'Miami Heat', 'San Antonio Spurs']",Dallas Mavericks,False,False,4.123968132617847
+2012,Chicago Bulls,"['Chicago Bulls', 'San Antonio Spurs', 'Oklahoma City Thunder']",Miami Heat,False,False,5.655085876538578
+2013,Miami Heat,"['Miami Heat', 'Oklahoma City Thunder', 'San Antonio Spurs']",Miami Heat,True,True,0.0
+2014,San Antonio Spurs,"['San Antonio Spurs', 'Los Angeles Clippers', 'Oklahoma City Thunder']",San Antonio Spurs,True,True,0.0
+2015,Golden State Warriors,"['Golden State Warriors', 'Atlanta Hawks', 'Los Angeles Clippers']",Golden State Warriors,True,True,0.0
+2016,Golden State Warriors,"['Golden State Warriors', 'San Antonio Spurs', 'Oklahoma City Thunder']",Cleveland Cavaliers,False,False,17.314656459437742
+2017,Golden State Warriors,"['Golden State Warriors', 'San Antonio Spurs', 'Houston Rockets']",Golden State Warriors,True,True,0.0
+2018,Golden State Warriors,"['Golden State Warriors', 'Houston Rockets', 'Toronto Raptors']",Golden State Warriors,True,True,0.0
+2019,Milwaukee Bucks,"['Milwaukee Bucks', 'Golden State Warriors', 'Toronto Raptors']",Toronto Raptors,False,True,4.190668845251935
+2020,Milwaukee Bucks,"['Milwaukee Bucks', 'Toronto Raptors', 'Los Angeles Lakers']",Los Angeles Lakers,False,True,6.88257457866905
+2021,Utah Jazz,"['Utah Jazz', 'Phoenix Suns', 'Brooklyn Nets']",Milwaukee Bucks,False,False,6.542038816652735
+2022,Phoenix Suns,"['Phoenix Suns', 'Golden State Warriors', 'Boston Celtics']",Golden State Warriors,False,True,6.3179017716772705
+2023,Boston Celtics,"['Boston Celtics', 'Milwaukee Bucks', 'Denver Nuggets']",Denver Nuggets,False,True,3.8057467807641387
+2024,Boston Celtics,"['Boston Celtics', 'Oklahoma City Thunder', 'Denver Nuggets']",Boston Celtics,True,True,0.0

@@ -41,4 +41,4 @@ def plot_margin_dotplot(input_csv="predictions.csv"):
 
 # Example usage
 if __name__ == "__main__":
-    plot_margin_dotplot("predictions/warriorsVbulls2010s.csv")
+    plot_margin_dotplot("predictions/warriorsVbulls.csv")
